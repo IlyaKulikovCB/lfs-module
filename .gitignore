@@ -10,3 +10,4 @@
 **/jacoco.exec
 **/.gradle
 **/obfuscated-sources
+**/opencv
